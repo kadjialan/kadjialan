@@ -22,10 +22,6 @@
         <span>Typescript</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
       </td>
-            <td width="140px" align="center">
-        <span>C</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
-      </td>
     </tr>
   </tbody>
 </table>
