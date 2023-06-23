@@ -11,7 +11,7 @@
 </div>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/NgadjeuDanel?t=cfhT1LJzxacCfLfzMQtD0Q&s=09)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](linkedin.com/in/alan-kadji)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kadji-alan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BolOavRMdTZCPwXM97MgFfQ%3D%3D)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/danel.kadji)
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
