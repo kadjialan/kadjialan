@@ -69,7 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </table>
 
 
-   ### Frontend Technology Skills
+   ### Technologies learn
 
 <table>
   <tbody>
@@ -103,6 +103,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         <span><strong>Tailwind</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+       <td width="140px" align="center">
+        <span>Firebase</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/353735/firebase.svg">
+      </td>
+      <td width="140px" align="center">
+        <span>Nodejs</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
       </td>
     </tr>
   </tbody>
